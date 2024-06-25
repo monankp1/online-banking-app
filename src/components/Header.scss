@@ -1,0 +1,25 @@
+.header-container {
+    background-color: #3B536F;
+    color: whitesmoke;
+    min-width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 10vh;
+}
+
+.header-logo {
+    margin-left: 5vw;
+}
+
+
+.login-btn {
+    background-color: #247de2;
+    color: whitesmoke;
+    margin-right: 5vw;
+    width: 5rem;
+    height: 3rem;
+    border-radius: 10px;
+    font-size: larger;
+    font-weight: 700;
+}
