@@ -13,13 +13,19 @@
 }
 
 
-.login-btn {
-    background-color: #247de2;
-    color: whitesmoke;
-    margin-right: 5vw;
-    width: 5rem;
-    height: 3rem;
-    border-radius: 10px;
-    font-size: larger;
-    font-weight: 700;
+.login-btn,
+.transfer-btn,
+.logout-btn {
+    margin-right: 1vw;
+}
+
+@media screen and (max-width: 576px) {
+
+    .login-btn,
+    .transfer-btn,
+    .logout-btn {
+        width: 3.5rem;
+        height: 2rem;
+        font-size: 12px;
+    }
 }

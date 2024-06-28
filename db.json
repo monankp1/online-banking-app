@@ -1,58 +1,88 @@
 {
-    "features": [
-        {
-            "id": "1",
-            "title": "Home Loans",
-            "description": "Get the best home loan deals with us",
-            "image": "https://www.shutterstock.com/image-photo/percentage-house-on-white-desk-260nw-2304595715.jpg"
-        },
-        {
-            "id": "2",
-            "title": "Personal Loans",
-            "description": "Get instant personal loans with us",
-            "image": "https://t3.ftcdn.net/jpg/03/24/47/40/360_F_324474083_lTsIcFURraPJ2Y5Y04BZuWNwzkQltgwV.jpg"
-        },
-        {
-            "id": "3",
-            "title": "Car Loans",
-            "description": "Get the best car loan deals with us",
-            "image": "https://www.bankofbaroda.in/-/media/project/bob/countrywebsites/india/blogs/images/what-is-vehicle-loan-and-its-different-types.jpg"
-        },
-        {
-            "id": "4",
-            "title": "Credit Cards",
-            "description": "Get the best credit card deals with us",
-            "image": "https://t4.ftcdn.net/jpg/02/13/97/75/360_F_213977586_B23DBDMd1BMTjb405USK26GKBnXTOULQ.jpg"
-        },
-        {
-            "id": "5",
-            "title": "Insurance",
-            "description": "Get the best insurance deals with us",
-            "image": "https://m.economictimes.com/thumb/msid-69278711,width-1200,height-900,resizemode-4,imgsize-132321/home-insurance-getty.jpg"
-        },
-        {
-            "id": "6",
-            "title": "Mutual Funds",
-            "description": "Get the best mutual fund deals with us",
-            "image": "https://media.istockphoto.com/id/1426182267/photo/investment-on-mutual-fund-concept-coins-in-a-jar-with-soil-and-growing-plant-in-nature.webp?b=1&s=170667a&w=0&k=20&c=BpBMiLQYxn_g-JEbrTPOXIFHJomvvBxm-amK5svrhTk="
-        },
-        {
-            "id": "7",
-            "title": "Fixed Deposits",
-            "description": "Get the best fixed deposit deals with us",
-            "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/07/fixed-deposit-1627642644.jpg"
-        },
-        {
-            "id": "8",
-            "title": "Savings Account",
-            "description": "Get the best savings account deals with us",
-            "image": "https://upstox.com/app/uploads/2022/10/savings-account.png"
-        },
-        {
-            "id": "9",
-            "title": "Current Account",
-            "description": "Get the best current account deals with us",
-            "image": "https://www.indusind.com/iblogs/wp-content/uploads/02_CA_Banner-Image.jpg"
-        }
-    ]
+  "users": [
+    {
+      "id": "1",
+      "userName": "Monank Patel",
+      "account": "1234567890",
+      "password": "monankp1",
+      "balance": 62990
+    },
+    {
+      "id": "2",
+      "userName": "Manali Patel",
+      "account": "9876543210",
+      "password": "manalip2",
+      "balance": 42010
+    },
+    {
+      "id": "3",
+      "userName": "Dev Patel",
+      "account": "1111111111",
+      "password": "devp3",
+      "balance": 20000
+    },
+    {
+      "id": "4",
+      "userName": "Narendra Modi",
+      "account": "2222222222",
+      "password": "narendram4",
+      "balance": 1500000
+    }
+  ],
+  "features": [
+    {
+      "id": "1",
+      "title": "Home Loans",
+      "description": "Get the best home loan deals with us",
+      "image": "https://www.shutterstock.com/image-photo/percentage-house-on-white-desk-260nw-2304595715.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Personal Loans",
+      "description": "Get instant personal loans with us",
+      "image": "https://t3.ftcdn.net/jpg/03/24/47/40/360_F_324474083_lTsIcFURraPJ2Y5Y04BZuWNwzkQltgwV.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Car Loans",
+      "description": "Get the best car loan deals with us",
+      "image": "https://www.bankofbaroda.in/-/media/project/bob/countrywebsites/india/blogs/images/what-is-vehicle-loan-and-its-different-types.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Credit Cards",
+      "description": "Get the best credit card deals with us",
+      "image": "https://t4.ftcdn.net/jpg/02/13/97/75/360_F_213977586_B23DBDMd1BMTjb405USK26GKBnXTOULQ.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Insurance",
+      "description": "Get the best insurance deals with us",
+      "image": "https://m.economictimes.com/thumb/msid-69278711,width-1200,height-900,resizemode-4,imgsize-132321/home-insurance-getty.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Mutual Funds",
+      "description": "Get the best mutual fund deals with us",
+      "image": "https://media.istockphoto.com/id/1426182267/photo/investment-on-mutual-fund-concept-coins-in-a-jar-with-soil-and-growing-plant-in-nature.webp?b=1&s=170667a&w=0&k=20&c=BpBMiLQYxn_g-JEbrTPOXIFHJomvvBxm-amK5svrhTk="
+    },
+    {
+      "id": "7",
+      "title": "Fixed Deposits",
+      "description": "Get the best fixed deposit deals with us",
+      "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/07/fixed-deposit-1627642644.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Savings Account",
+      "description": "Get the best savings account deals with us",
+      "image": "https://upstox.com/app/uploads/2022/10/savings-account.png"
+    },
+    {
+      "id": "9",
+      "title": "Current Account",
+      "description": "Get the best current account deals with us",
+      "image": "https://www.indusind.com/iblogs/wp-content/uploads/02_CA_Banner-Image.jpg"
+    }
+  ]
 }
