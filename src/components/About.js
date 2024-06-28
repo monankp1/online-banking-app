@@ -1,13 +1,13 @@
 import React from 'react';
-import styles from './About.module.css';
+import './About.scss';
 
 const About = () => {
   return (
-    <div className={styles.container}>
-      <div className={styles.about}>
+    <div className='container'>
+      <div className='about'>
         <p>about</p>
       </div>
-      <div className={styles.about}>
+      <div className='about'>
         <p>copyright</p>
       </div>
     </div>
